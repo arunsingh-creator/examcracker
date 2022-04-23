@@ -1,6 +1,9 @@
-1:https://tech9light.tech/youtube/w43CsMOTwr5ww6PCuG3CrsOQwo
-2:https://tech9light.tech/youtube/w43CsMOTwr5ww6PCuG3CrsOQwo8=
-3:https://tech9light.tech/youtube/w43DgsOWwqp2wqrDllXDj8Krc
-4:https://tech9light.tech/youtube/w43DgsOWwqp2wqrDllXDj8KrcQ==
-
-
+1:https://cdn.jwplayer.com/manifests/pZRBJsOD.m3u8
+2:https://cdn.jwplayer.com/manifests/SxjJgxVi.m3u8
+3:https://videos-fms.jwpsrv.com/0_62638c06_0x933ac636d11aaf309d682719b5130901d0283c9b/content/conversions/OLHyMMB9/videos/ahhYWOKi-33097914.mp4
+4:https://cdn.jwplayer.com/manifests/UbtuG1mD.m3u8
+5:https://cdn.jwplayer.com/manifests/wpp0739W.m3u8
+6:https://cdn.jwplayer.com/manifests/d2ksYpHW.m3u8
+7:https://cdn.jwplayer.com/manifests/TDUqxktY.m3u8
+8:https://cdn.jwplayer.com/manifests/xOS1GPvK.m3u8
+9:https://cdn.jwplayer.com/manifests/Nqy0Ukof.m3u8
